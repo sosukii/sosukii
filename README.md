@@ -1,16 +1,25 @@
-### Hi there 👋
+<img height="300" alt="naruto" src="./img/naruto.png" align="left">
 
-<!--
-**sosukii/sosukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="" style="margin:0;">👋 Hello, I'm Sveta!</h3>
 
-Here are some ideas to get you started:
+<div align="right" style="margin: 0; padding: 0;">
+    <h4><span style="color: orange; ">contact</span> me:</h4>
+    <a href="https://t.me/Tasvetla">
+        <img width="30" height="30" alt="telegram logo" src="./img/p.png">
+    </a>
+    <a>
+        <img width="27" height="27" alt="mail logo" src="./img/mail.png">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="height: 2px; background-color: orange; margin: 20px; padding: 0;">
+
+<div align="right" style="margin: 0; padding: 0;">
+    <h4><span style="color: orange;">projects</span> with Deploy:</h4>
+    <a href="https://rolling-scopes-school.github.io/sosukii-JSFEPRESCHOOL2022Q2/travel/">
+    <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Travel    
+    </a><br>
+    <a href="https://sosukii.github.io/sushi/" style="font-size: 16px;">
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Sushi
+    </a>
+</div>
