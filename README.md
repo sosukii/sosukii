@@ -7,7 +7,7 @@
     <a href="https://t.me/Tasvetla">
         <img width="30" height="30" alt="telegram logo" src="./img/p.png">
     </a>
-    <a>
+    <a href="mailto:sweta4ca@mail.ru">
         <img width="27" height="27" alt="mail logo" src="./img/mail.png">
     </a>
 </div>
