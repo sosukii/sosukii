@@ -23,9 +23,9 @@
         <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Sushi
     </a><br>
     <a href="https://sosukii.github.io/slider/" style="font-size: 16px;" target="_blanc">
-        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Slider 
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Short slider 
     </a><br>
     <a href="https://sosukii.github.io/travelSlider/" style="font-size: 16px;" target="_blanc">
-        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Slider 
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Complex Slider 
     </a>
 </div>
