@@ -25,4 +25,7 @@
     <a href="https://sosukii.github.io/slider/" style="font-size: 16px;" target="_blanc">
         <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Slider 
     </a>
+    <a href="https://sosukii.github.io/travelSlider/" style="font-size: 16px;" target="_blanc">
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Slider 
+    </a>
 </div>
