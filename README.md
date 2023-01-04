@@ -4,7 +4,7 @@
 
 <div align="right" style="margin: 0; padding: 0;">
     <h4><span style="color: orange; ">contact</span> me:</h4>
-    <a href="https://t.me/Tasvetla" target="_blanc">
+    <a href="https://t.me/sosukii" target="_blanc">
         <img width="30" height="30" alt="telegram logo" src="./img/p.png">
     </a>
     <a href="mailto:sweta4ca@mail.ru" target="_blanc">
