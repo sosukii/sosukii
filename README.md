@@ -16,6 +16,9 @@
 
 <div align="right" style="margin: 0; padding: 0;">
     <h4><span style="color: orange;">projects</span> with Deploy:</h4>
+    <a href="https://rolling-scopes-school.github.io/sosukii-JSFEPRESCHOOL2022Q4/plants/" target="_blanc">
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Plants    
+    </a><br>
     <a href="https://rolling-scopes-school.github.io/sosukii-JSFEPRESCHOOL2022Q2/travel/" target="_blanc">
         <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Travel    
     </a><br>
