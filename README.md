@@ -1,14 +1,10 @@
+### 🔥 Hello, I'm Sveta!
+#### Reach me: <a href="https://t.me/sosukii" target="_blanc">telegram</a>
 
 
 
-
-<div style="margin: 0; padding: 0;">
-    <h3 >🔥 Hello, I'm Sveta!</h3>
-    <a href="https://t.me/sosukii" target="_blanc">
-        <img width="30" height="30" alt="telegram logo" src="./img/p.png">
-    </a>
-
-</div>
+[![wakatime](https://wakatime.com/badge/user/45da4036-f494-4815-8b23-dfe2521a6589.svg)](https://wakatime.com/@45da4036-f494-4815-8b23-dfe2521a6589)
+![views](https://komarev.com/ghpvc/?username=your-github-username&label=profile+views&color=orange)
 
 <hr style="height: 2px; background-color: orange; margin: 20px; padding: 0;">
 
