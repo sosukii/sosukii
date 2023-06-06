@@ -11,6 +11,10 @@
 <div align="left" style="margin: 0; padding: 0;">
     <img height="350" alt="naruto" src="./img/naruto.png" align="right">
     <h4><span style="color: orange;">projects</span> with Deploy:</h4>
+    <a href="https://rolling-scopes-school.github.io/sosukii-JSFE2023Q1/minesweeper/" target="_blanc">
+        <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Saper   
+    </a> - saper game, theme (pink \ purple), win \ lose, broken herts, flags, sounds 🥕
+    <br>
     <a href="https://sosukii.github.io/virtual-keyboard/" target="_blanc">
         <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Keyboard   
     </a> - virtual keyboard, mechanical-pink with textarea
