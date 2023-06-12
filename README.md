@@ -51,3 +51,5 @@
         <img width="30" src="./img/kunai.png" alt="image of ninja special steel named Kunai">Slider complex 
     </a> - responsive slider, next on arrow click, on circle click, on picture click
 </div>
+
+![](https://hit.yhype.me/github/profile?user_id=65328736)
