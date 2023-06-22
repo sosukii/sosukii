@@ -4,7 +4,7 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/45da4036-f494-4815-8b23-dfe2521a6589.svg)](https://wakatime.com/@45da4036-f494-4815-8b23-dfe2521a6589)
-![views](https://komarev.com/ghpvc/?username=your-github-username&label=profile+views&color=orange)
+![views](https://komarev.com/ghpvc/?username=sosukii&label=profile+views&color=orange)
 
 <hr style="height: 2px; background-color: orange; margin: 20px; padding: 0;">
 
